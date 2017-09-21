@@ -1,0 +1,103 @@
+[
+  {
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "selected" : false,
+    "nodes" : [
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "uuid" : "72EADE04-E9BE-4D01-8DBD-2A363EBE35CA",
+          "name" : "st_mother_teresa_h_s_button",
+          "action" : "st_mother_teresa_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "St. Mother Teresa High School"
+        },
+        "frame" : "{{6, 131}, {255, 35}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "title" : "St. Joseph High School",
+          "name" : "st_joseph_h_s_button",
+          "action" : "st_joseph_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "uuid" : "B65C4CFD-1182-4AC2-B181-2CD4B831C663"
+        },
+        "frame" : "{{0, 204}, {197, 33}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "uuid" : "1400D807-AE6F-40D9-9936-0DFF940A92A8",
+          "name" : "st_mark_h_s_button",
+          "action" : "st_mark_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "St. Mark High School"
+        },
+        "frame" : "{{6, 281}, {187, 28}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "school_name_label",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C2E44555-AC3E-4F5B-8B8F-71869A19BA2B"
+        },
+        "frame" : "{{295, 148}, {293, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "mascot_label",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B906624D-5C64-4319-8881-FA82C5595B52"
+        },
+        "frame" : "{{295, 205}, {293, 32}}",
+        "selected" : true,
+        "nodes" : [
+
+        ]
+      }
+    ]
+  }
+]
